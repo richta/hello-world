@@ -1,2 +1,5 @@
 # hello-world
-hello world example
+hello world example made for Thomas
+Nazdar
+
+
